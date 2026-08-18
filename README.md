@@ -116,8 +116,8 @@ $ streamlit run app.py
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🌐 Live App:  [ PLACEHOLDER — ADD LINK ]   │
-│  📁 GitHub:    [ PLACEHOLDER — ADD LINK ]   │
+│  🌐 Live App:  [ https://local-inflation.streamlit.app ]   │
+│  📁 GitHub:    [ https://github.com/jayendrasai/Hyper-Local-Inflation-Tracker ]   │
 └─────────────────────────────────────────────┘
 ```
 
