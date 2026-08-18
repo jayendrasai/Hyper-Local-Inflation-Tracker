@@ -114,12 +114,12 @@ $ streamlit run app.py
 
 ## 🔗 Live Demo
 
-```
-┌─────────────────────────────────────────────┐
-│  🌐 Live App:  [ https://local-inflation.streamlit.app ]   │
-│  📁 GitHub:    [ https://github.com/jayendrasai/Hyper-Local-Inflation-Tracker ]   │
-└─────────────────────────────────────────────┘
-```
+<pre>
+┌───────────────────────────────────────────────────────────────────────────────┐
+│  🌐 Live App:  <a href="https://local-inflation.streamlit.app">https://local-inflation.streamlit.app</a>                          │
+│  📁 GitHub:    <a href="https://github.com/jayendrasai/Hyper-Local-Inflation-Tracker">https://github.com/jayendrasai/Hyper-Local-Inflation-Tracker</a>   │
+└───────────────────────────────────────────────────────────────────────────────┘
+</pre>
 
 ---
 
