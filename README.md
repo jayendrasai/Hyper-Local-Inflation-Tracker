@@ -69,8 +69,8 @@ $ cat README.md
 
 ```bash
 # ─── Step 1: Clone the repository ─────────────────────────────────────
-$ git clone https://github.com/YOUR_USERNAME/inflation-tracker.git
-$ cd inflation-tracker
+$ git clone https://github.com/jayendrasai/Hyper-Local-Inflation-Tracker.git
+$ cd Hyper-Local-Inflation-Tracker
 
 # ─── Step 2: Create a virtual environment ─────────────────────────────
 $ python3 -m venv .venv
@@ -111,31 +111,6 @@ $ streamlit run app.py
     Zero hardcoded credentials in source code.
 ```
 
----
-
-## ☁️ Deploying to Streamlit Community Cloud
-
-```bash
-# ─── Step 1: Push to GitHub (ensure .env is NOT committed) ────────────
-$ git add .
-$ git commit -m "feat: initial hyper-local inflation tracker"
-$ git push origin main
-
-# ─── Step 2: Go to https://share.streamlit.io ─────────────────────────
-#   - Connect your GitHub account
-#   - Select this repository
-#   - Set main file to: app.py
-
-# ─── Step 3: Add Secrets in Streamlit Cloud ───────────────────────────
-#   Settings → Secrets → Add:
-#
-#   OPENROUTER_API_KEY = "your_actual_key_here"
-
-# ─── Step 4: Deploy! ──────────────────────────────────────────────────
-#   Live URL: https://your-app-name.streamlit.app
-```
-
----
 
 ## 🔗 Live Demo
 
@@ -165,9 +140,9 @@ Deployment : Streamlit Community Cloud
 
 ```
 Project   : B.Tech Capstone — Hyper-Local Inflation Tracker
-Developer : [ YOUR NAME HERE ]
-Roll No   : [ YOUR ROLL NUMBER ]
-Guide     : [ YOUR FACULTY GUIDE ]
+Developer : JAYENDRA SAI CHENNA
+Roll No   : 23P31A0571
+Guide     : MIRAI School Of Technology
 Year      : 2026
 ```
 
